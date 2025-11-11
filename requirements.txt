@@ -1,0 +1,5 @@
+gymnasium[mujoco,other]==1.2.0
+stable-baselines3==2.7.0
+torch==2.7.1
+tyro==0.9.27
+wandb==0.21.0
