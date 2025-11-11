@@ -42,7 +42,7 @@ Implemented algorithms are:
 - RMA (note: this baseline must be trained in 2 separate phases, see both files)
 - SAC (only observations as input)
 - History Input (no context inference, history as input)
-- Oracle (privileged context information)
+- Oracle (privileged context information, even at test time)
 
 
 ## Visualize 
