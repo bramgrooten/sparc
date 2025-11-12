@@ -1,8 +1,5 @@
 # SPARC
 
-This repository contains our open-source code for the SPARC paper on generalization in RL:
-
-
 **Out-of-Distribution Generalization with a SPARC: Racing 100 Unseen Vehicles with a Single Policy**   
 _Bram Grooten, Patrick MacAlpine, Kaushik Subramanian, Peter Stone, Peter R. Wurman_  
 Accepted as an **oral** at AAAI 2026.
