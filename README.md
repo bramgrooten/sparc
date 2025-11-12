@@ -8,7 +8,8 @@ _without_ access to privileged context information at test time.
 SPARC is able to infer the context through a history of the agent's own actions and observations. 
 
 The paper presents experiments on Gran Turismo 7 and MuJoCo environments. 
-The code for Gran Turismo 7 (which runs exclusively on PlayStation) is proprietary and not included in this repository. 
+The code for Gran Turismo 7 (which runs exclusively on PlayStation) is proprietary 
+and not included in this repository. 
 The MuJoCo code is open source. 
 We include the newly created benchmarks for MuJoCo environments with wind:
 
