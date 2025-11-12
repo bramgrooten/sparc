@@ -7,6 +7,8 @@ This repository contains our open-source code for the SPARC paper on generalizat
 _Bram Grooten, Patrick MacAlpine, Kaushik Subramanian, Peter Stone, Peter R. Wurman_  
 Accepted as an **oral** at AAAI 2026.
 
+Paper: arXiv link coming soon.   
+Video: https://youtu.be/MpCL-j0ObuI   
 
 SPARC is a **s**ingle-**p**hase **a**daptation method for **r**obust **c**ontrol.
 It works especially well in out-of-distribution (OOD) environments, 
