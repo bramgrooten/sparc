@@ -5,7 +5,7 @@ _Bram Grooten, Patrick MacAlpine, Kaushik Subramanian, Peter Stone, Peter R. Wur
 Accepted as an **oral** at AAAI 2026.
 
 Paper: https://arxiv.org/abs/2511.09737   
-Video: https://youtu.be/MpCL-j0ObuI   
+Video: https://youtu.be/rrcj_oovzWE     
 
 ![Overview of SPARC](utils/figure1.png) 
 
